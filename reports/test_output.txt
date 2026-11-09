@@ -1,0 +1,56 @@
+﻿python : test_decision_needs_a_named_person (tests.test_detector.DecisionLogTests.test_decision_needs_a_named_person) 
+... ok
+At line:1 char:411
++ ... TEXITCODE"; python -m unittest discover -t . -s tests -v 2>&1 | Out-F ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (test_decision_n..._person) ... ok:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+test_named_decision_is_logged_and_chained 
+(tests.test_detector.DecisionLogTests.test_named_decision_is_logged_and_chained) ... ok
+test_tampering_is_detected (tests.test_detector.DecisionLogTests.test_tampering_is_detected) ... ok
+test_same_world_same_answer (tests.test_detector.DeterminismTests.test_same_world_same_answer) ... ok
+test_delivery_failure_is_logged_with_its_reason 
+(tests.test_detector.MustNotAlertTests.test_delivery_failure_is_logged_with_its_reason) ... ok
+test_quiet_classes_stay_quiet (tests.test_detector.MustNotAlertTests.test_quiet_classes_stay_quiet) ... ok
+test_reporting_gap_marks_facilities_not_assessed 
+(tests.test_detector.MustNotAlertTests.test_reporting_gap_marks_facilities_not_assessed) ... ok
+test_a_single_facility_lands_in_the_quiet_log 
+(tests.test_detector.SeveralFacilitiesRuleTests.test_a_single_facility_lands_in_the_quiet_log) ... ok
+test_five_facilities_can_alert (tests.test_detector.SeveralFacilitiesRuleTests.test_five_facilities_can_alert) ... ok
+test_rule_is_several (tests.test_detector.SeveralFacilitiesRuleTests.test_rule_is_several) ... ok
+test_two_changed_facilities_stay_in_the_quiet_log 
+(tests.test_detector.SeveralFacilitiesRuleTests.test_two_changed_facilities_stay_in_the_quiet_log) ... ok
+test_catalogue_mapping_status_is_visible_and_uncited_is_honest 
+(tests.test_generator.GeneratorTests.test_catalogue_mapping_status_is_visible_and_uncited_is_honest) ... ok
+test_different_seed_different_world (tests.test_generator.GeneratorTests.test_different_seed_different_world) ... ok
+test_only_fictional_facilities_in_real_governorates 
+(tests.test_generator.GeneratorTests.test_only_fictional_facilities_in_real_governorates) ... ok
+test_only_weekly_facility_aggregates_no_person_fields 
+(tests.test_generator.GeneratorTests.test_only_weekly_facility_aggregates_no_person_fields) ... ok
+test_same_seed_same_world (tests.test_generator.GeneratorTests.test_same_seed_same_world) ... ok
+test_counts_under_five_are_hidden (tests.test_privacy_wording.SuppressionTests.test_counts_under_five_are_hidden) ... 
+ok
+test_no_small_stock_count_shown_in_any_alert 
+(tests.test_privacy_wording.SuppressionTests.test_no_small_stock_count_shown_in_any_alert) ... ok
+test_rates_with_small_parts_are_hidden 
+(tests.test_privacy_wording.SuppressionTests.test_rates_with_small_parts_are_hidden) ... ok
+test_every_alert_passes_the_guard_and_is_produced 
+(tests.test_privacy_wording.WordingGuardTests.test_every_alert_passes_the_guard_and_is_produced) ... ok
+test_guard_allows_ordinary_supply_wording 
+(tests.test_privacy_wording.WordingGuardTests.test_guard_allows_ordinary_supply_wording) ... ok
+test_guard_rejects_diagnosis_words (tests.test_privacy_wording.WordingGuardTests.test_guard_rejects_diagnosis_words) 
+... ok
+test_all_frozen_files_unchanged (tests.test_sealed_report.SealedReportTests.test_all_frozen_files_unchanged) ... ok
+test_detector_file_matches_frozen_hash 
+(tests.test_sealed_report.SealedReportTests.test_detector_file_matches_frozen_hash) ... ok
+test_report_was_produced_by_the_frozen_code 
+(tests.test_sealed_report.SealedReportTests.test_report_was_produced_by_the_frozen_code) ... ok
+test_scored_exactly_once (tests.test_sealed_report.SealedReportTests.test_scored_exactly_once) ... ok
+test_seed_rule_reproduces_the_seeds (tests.test_sealed_report.SealedReportTests.test_seed_rule_reproduces_the_seeds) 
+... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 30.429s
+
+OK
