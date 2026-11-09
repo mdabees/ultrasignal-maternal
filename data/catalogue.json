@@ -1,0 +1,21 @@
+{
+  "clinical_mapping_status": "Clinical mapping: pending review by Dr. Yasmeen Dabees (gynaecologist). Not yet reviewed.",
+  "note": "Stages and roles are a supply-planning mapping for this module. They are not clinical guidance. Sources are listed by id in SOURCES.md.",
+  "items": [
+    {"id": "IFA", "name": "Iron and folic acid tablets", "stages": ["antenatal"], "role": "prevent", "sources": ["EML-FERROUS-FOLIC", "ANC-2016"], "cited": true},
+    {"id": "HB_TEST", "name": "Haemoglobin test", "stages": ["antenatal"], "role": "screen", "sources": ["EDL-HB", "ANC-2016"], "cited": true},
+    {"id": "URINE_TEST", "name": "Urine test strip", "stages": ["antenatal"], "role": "screen", "sources": ["EDL-URINE", "ANC-2016"], "cited": true},
+    {"id": "SYPH_RDT", "name": "Syphilis rapid test", "stages": ["antenatal"], "role": "screen", "sources": ["EDL-SYPHILIS", "DUAL-RDT-2019"], "cited": true},
+    {"id": "HIV_RDT", "name": "HIV rapid test", "stages": ["antenatal"], "role": "screen", "sources": ["EDL-HIV", "DUAL-RDT-2019"], "cited": true},
+    {"id": "OXYTOCIN", "name": "Oxytocin injection", "stages": ["delivery", "postnatal"], "role": "prevent", "sources": ["UNCOLSC-2012", "EML-OXYTOCIN"], "cited": true},
+    {"id": "MISOPROSTOL", "name": "Misoprostol tablets", "stages": ["delivery", "postnatal"], "role": "prevent", "sources": ["UNCOLSC-2012", "EML-MISOPROSTOL"], "cited": true},
+    {"id": "MGSO4", "name": "Magnesium sulfate injection", "stages": ["antenatal", "delivery"], "role": "treat", "sources": ["UNCOLSC-2012", "EML-MGSO4"], "cited": true},
+    {"id": "CA_GLUCONATE", "name": "Calcium gluconate injection", "stages": ["delivery"], "role": "escalate", "sources": ["EML-CA-GLUCONATE"], "cited": true},
+    {"id": "TXA", "name": "Tranexamic acid injection", "stages": ["delivery", "postnatal"], "role": "treat", "sources": ["EML-TXA", "TXA-2017"], "cited": true},
+    {"id": "BLOOD_BAG", "name": "Blood collection and transfusion bags", "stages": ["delivery", "postnatal"], "role": "escalate", "sources": [], "cited": false, "uncited_reason": "No public listing naming blood bags could be confirmed during the citation check. Marked uncited rather than invented."},
+    {"id": "CDK", "name": "Clean delivery kit", "stages": ["delivery"], "role": "prevent", "sources": ["UNFPA-CDK-2024"], "cited": true},
+    {"id": "CHX", "name": "Chlorhexidine 7.1% cord care", "stages": ["newborn"], "role": "prevent", "sources": ["UNCOLSC-2012", "EML-CHX"], "cited": true},
+    {"id": "VIT_K", "name": "Vitamin K injection (phytomenadione)", "stages": ["newborn"], "role": "prevent", "sources": ["EML-PHYTOMENADIONE"], "cited": true},
+    {"id": "NEO_RESUS", "name": "Newborn resuscitation device consumables", "stages": ["newborn"], "role": "escalate", "sources": ["UNCOLSC-2012"], "cited": true}
+  ]
+}
