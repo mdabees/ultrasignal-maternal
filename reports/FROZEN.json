@@ -1,0 +1,13 @@
+{
+ "bundle_sha256": "e1ec15488a82f75350fea6e3ddf607991fd28a47640e7e3a949a0ca3377e1fcb",
+ "detector_sha256": "0ad940a8f0fbdb4f320a39e7afabb3faed3f385fa5f70797bf7bc7b0c97a6ba2",
+ "files": {
+  "watcher/alerts.py": "b78fb0dbd02335b918fe7425c3fd3b52564db01450d1bb187a72cb9d70dea1de",
+  "watcher/baseline.py": "d1964814a1b106b561fdc0352651c376574fc89d99ba0eae6eb1b8885cd33b2f",
+  "watcher/detector.py": "0ad940a8f0fbdb4f320a39e7afabb3faed3f385fa5f70797bf7bc7b0c97a6ba2",
+  "watcher/generator.py": "19b2e7c01a4f05505a40d2cb7633463b49a7c7eae7a9492ea9853686f2024a18",
+  "watcher/privacy.py": "e39e59333abe62277b2e166715d94b4e871d29bd4b5295efa16e7247e6865f4f",
+  "watcher/scenarios.py": "09edcc7b42e76a3dd83d33656eefd79b70422394f9a29bf0a006df393aa14944",
+  "watcher/scoring.py": "531a83e94fcdcc17a115d4dd39799dfe7a1407f09b0c2135286ae219229b4eb3"
+ }
+}

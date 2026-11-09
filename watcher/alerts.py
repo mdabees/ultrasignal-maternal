@@ -43,16 +43,20 @@ RULED_OUT = {
         "ar": "فجوات الإبلاغ: استخدمت فقط الأسابيع التي اكتمل فيها الإبلاغ بنسبة 80 بالمئة على الأقل.",
     },
     "delivery_failure": {
-        "en": "A recorded delivery failure: scheduled deliveries for these items did arrive in the last 8 weeks.",
-        "ar": "تعثر توريد مسجل: وصلت التوريدات المجدولة لهذه الأصناف خلال آخر 8 أسابيع.",
+        "en": "A recorded delivery failure: at least half of the scheduled deliveries for these items arrived in the last 8 weeks.",
+        "ar": "تعثر توريد مسجل: وصل نصف التوريدات المجدولة لهذه الأصناف على الأقل خلال آخر 8 أسابيع.",
+    },
+    "replenishment": {
+        "en": "An ordinary low point between deliveries: over the last 8 weeks, deliveries brought in less than was used.",
+        "ar": "انخفاض عادي بين التوريدات: خلال آخر 8 أسابيع كانت الكميات الموردة أقل من المستخدمة.",
     },
     "single_facility": {
         "en": "A single facility's noise: the change is seen at several separate facilities, each tested on its own counts.",
         "ar": "تذبذب منشأة واحدة: ظهر التغير في عدة منشآت منفصلة، واختبرت كل منها بأرقامها وحدها.",
     },
     "volume": {
-        "en": "A simple fall in visits or deliveries: the measure is per visit or per delivery, and care volumes did not fall.",
-        "ar": "انخفاض بسيط في الزيارات أو الولادات: المقياس لكل زيارة أو ولادة، ولم تنخفض أعداد الخدمات.",
+        "en": "A simple change in the number of visits or deliveries: the measure is per visit or per delivery, so volume alone does not produce this signal.",
+        "ar": "تغير بسيط في عدد الزيارات أو الولادات: المقياس لكل زيارة أو ولادة، لذلك لا يصدر هذا المؤشر عن تغير الأعداد وحده.",
     },
 }
 

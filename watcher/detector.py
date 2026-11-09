@@ -303,7 +303,7 @@ def _stock_rules(world, as_of, results):
                 })
             results["alerts"].append(_facility_alert("uterotonic_stock_risk", f, as_of, what_moved,
                 {lang: text.PROMPT["uterotonic_stock_risk"][lang].format(item=item, where=fid, cover=f"{cover:.1f}") for lang in ("en", "ar")},
-                item, ["delivery_failure", "bulk", "reporting"]))
+                item, ["delivery_failure", "replenishment", "reporting"]))
 
         for item in NEWBORN_ITEMS:
             _newborn_rule(world, f, item, as_of, results)
