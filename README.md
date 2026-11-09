@@ -40,7 +40,9 @@ The last line serves the demo at http://localhost:8000. The unit tests take abou
 
 Simulated results prove the mechanism works, not that it works at this accuracy in real facilities.
 
-Frozen detector sha256: `0ad940a8f0fbdb4f320a39e7afabb3faed3f385fa5f70797bf7bc7b0c97a6ba2` (commit `bde9fd2`, see `reports/FROZEN.json`). 330 worlds, seeds fixed by a rule stated in `TEST_PLAN.md` before scoring, run once by `scripts/score_holdout.py`. Full results with every miss are in `reports/holdout.json`.
+Frozen detector sha256: `0ad940a8f0fbdb4f320a39e7afabb3faed3f385fa5f70797bf7bc7b0c97a6ba2` (commit `3951589`, see `reports/FROZEN.json`). 330 worlds, seeds fixed by a rule stated in `TEST_PLAN.md` before scoring, run once by `scripts/score_holdout.py`. Full results with every miss are in `reports/holdout.json`.
+
+Note on commit IDs: before first publication the commit author address was changed to a private address, which changes every commit ID but no file. `reports/holdout.json` was left untouched, so it records the freeze commit under its earlier ID, `bde9fd2`, which is `3951589` here. The file hashes in `reports/FROZEN.json` are what bind the score to the code.
 
 | | Detector | Single-facility threshold baseline |
 |---|---|---|
