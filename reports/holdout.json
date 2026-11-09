@@ -1,0 +1,3958 @@
+{
+ "frozen": {
+  "detector_sha256": "0ad940a8f0fbdb4f320a39e7afabb3faed3f385fa5f70797bf7bc7b0c97a6ba2",
+  "bundle_sha256": "e1ec15488a82f75350fea6e3ddf607991fd28a47640e7e3a949a0ca3377e1fcb",
+  "git_commit": "bde9fd26d3e08c9157ae7b6ac3542bd8e44e54f3"
+ },
+ "seed_rule": "seed_i = first 12 hex digits of sha256(\"<bundle_sha256>:<i>\"), i in 0..329. Class of world i is class i mod 11.",
+ "seeds": [
+  183877079307972,
+  219374913746882,
+  8448512905111,
+  52493642314618,
+  151956043354012,
+  139376798383214,
+  99896247939426,
+  208157735528151,
+  142156246716601,
+  117017948058951,
+  200062350706785,
+  235324507876681,
+  46172951425786,
+  191603550984538,
+  202283239801712,
+  223941492704738,
+  55709890887619,
+  225224941266279,
+  188117174968734,
+  258242938095865,
+  462282345295,
+  251541353751995,
+  84208399447338,
+  74853188903373,
+  113266398698414,
+  280610040483462,
+  73781747754323,
+  223630228988898,
+  71583754250944,
+  27767708702794,
+  47709635578735,
+  172900258905348,
+  91739115807449,
+  377639386249,
+  91326954222811,
+  244941437475746,
+  32040984503884,
+  169396624895168,
+  271022543259551,
+  20104979591668,
+  236698889927491,
+  102099927403154,
+  206269404834005,
+  12220021427172,
+  173879411961086,
+  31395539290706,
+  178235250546671,
+  99923749696028,
+  83164830262321,
+  256453627284606,
+  262418426818978,
+  31483955737929,
+  63885434594792,
+  122482768864374,
+  202634338867898,
+  246091227546393,
+  78356308893638,
+  181707625399571,
+  125396224005048,
+  45473178374849,
+  140853005794445,
+  194546958567646,
+  98405687742793,
+  86618057885266,
+  32303738339149,
+  155732535249929,
+  61850020906025,
+  138681373909559,
+  89293409348570,
+  93525038647226,
+  89275605027590,
+  36210029630766,
+  79111977932588,
+  176754315092968,
+  69970273702177,
+  5500264388096,
+  97003614101701,
+  166216408479273,
+  207589169090638,
+  30794583933510,
+  228647360630908,
+  182463025879187,
+  246838993871769,
+  230927380873411,
+  140881650527237,
+  12037077060366,
+  280549645604680,
+  99908019872455,
+  69995665093492,
+  249286247367788,
+  20735609165622,
+  83677711672126,
+  234428263626601,
+  139346985832304,
+  27003986431449,
+  209312706311083,
+  7978100048006,
+  229676562507664,
+  70079627354770,
+  28565894842861,
+  179831436131537,
+  127481750355395,
+  244725436722713,
+  87587546770726,
+  38890486484029,
+  116084317715454,
+  219743205255348,
+  201864974065318,
+  99083108355172,
+  17731240085197,
+  5328320737636,
+  245997813679929,
+  125408183440073,
+  235861005328171,
+  184025606752796,
+  187031393091492,
+  216529091064110,
+  192236340245107,
+  55637662821422,
+  157998043112147,
+  235232643151568,
+  124416030574452,
+  253644414058866,
+  100658924013376,
+  152990176353855,
+  190239220173924,
+  7891364226661,
+  153399915587687,
+  12012104171938,
+  54595992805372,
+  162162101244440,
+  193549133383435,
+  192920499003132,
+  190374584955618,
+  151675598415493,
+  46891848053698,
+  144513671505650,
+  54794997778768,
+  142768929618976,
+  183110752288556,
+  106598015707933,
+  239892543262484,
+  212223728637075,
+  63520790797006,
+  45958062949880,
+  109686887703685,
+  116091262989680,
+  107538814352622,
+  48656842123918,
+  243859342266483,
+  142130996101386,
+  56124737384633,
+  256665649780144,
+  91642975502622,
+  9946372550772,
+  209954482213645,
+  103099552386354,
+  154777012138944,
+  5077195361107,
+  67509561895812,
+  145419384996321,
+  53914829488380,
+  259988522779458,
+  168755377012748,
+  162800668613099,
+  52012258015745,
+  201751215610855,
+  225883422500943,
+  54003967621767,
+  84041770540922,
+  266144139740911,
+  220752877491710,
+  182994161223203,
+  272376257550608,
+  231251324420402,
+  266492227072763,
+  239124897789503,
+  135865619907381,
+  10519727617400,
+  36758284328682,
+  196046991602962,
+  205815880172765,
+  262988249013646,
+  54798533907528,
+  39108533687649,
+  41209897691092,
+  74938038787619,
+  164576612937218,
+  229600985823042,
+  199942540427304,
+  58890374592027,
+  102418023734208,
+  156895898366467,
+  262292317377800,
+  31359205984508,
+  162553155625608,
+  35536157227456,
+  252579962545019,
+  36053713003912,
+  168386042413641,
+  244616684291448,
+  131215807762789,
+  14790052261453,
+  234860204277436,
+  238678532501861,
+  216371508982943,
+  81957466930734,
+  153742451201460,
+  120572602288768,
+  126440810089998,
+  222623580194293,
+  79361828093,
+  60508285224076,
+  273215322364691,
+  164791284568426,
+  244632783636782,
+  258603806489360,
+  199127045824584,
+  52976081535977,
+  78043383812002,
+  84493370817698,
+  25673181740496,
+  189815828982251,
+  265323880874693,
+  102532244730815,
+  87876302572942,
+  66502394137530,
+  194278216698702,
+  164789346440124,
+  62416241807809,
+  209365807640702,
+  239043972618250,
+  220479863959321,
+  239183307217591,
+  93160404333762,
+  236232543468325,
+  37603663015255,
+  127852076304739,
+  277354758756886,
+  42222620786672,
+  72439964734064,
+  274145927958663,
+  135097393432486,
+  239256930754125,
+  155326756368601,
+  120082237368052,
+  238631798728985,
+  193439000056637,
+  143057408752956,
+  232407152804608,
+  68287950955458,
+  185729019559434,
+  47539667134371,
+  228190360312724,
+  243974217366787,
+  272105031818103,
+  180644974067554,
+  270603773030575,
+  239266155356925,
+  70734058209896,
+  185887472582352,
+  53825692659888,
+  96427427019956,
+  170876772587858,
+  110399633368000,
+  202107186420949,
+  130683782802052,
+  253079267766110,
+  68756248740978,
+  158791219238394,
+  65578186516081,
+  178962366547986,
+  44887886712766,
+  164035211041164,
+  105251434746099,
+  191937407373289,
+  106849829875484,
+  125572370909032,
+  17549094089317,
+  235707392375733,
+  241594602482372,
+  8007658896661,
+  72375425818823,
+  146497438664028,
+  210681267475689,
+  215104025663600,
+  138440324117791,
+  209317533659007,
+  204566148407781,
+  29892275080672,
+  138035182881046,
+  217423040797315,
+  228614997312663,
+  120357566515571,
+  115695325609485,
+  165231148410905,
+  185743869177172,
+  111975421655130,
+  260689571871888,
+  9068124452395,
+  188365013623672,
+  237286206476490,
+  149623648668467,
+  81969233921112,
+  181743270533620,
+  255687999988355,
+  189606586081309,
+  58160316073287,
+  141406271722164,
+  137949536797323,
+  115771100802524,
+  88930394650819,
+  73734204929250,
+  714811210748,
+  227412078512161,
+  152829699526210,
+  33835266214885,
+  94386889240014,
+  60578717826110,
+  84962386310695,
+  272880068424230,
+  243456411181612,
+  12801210091433,
+  264959097018623,
+  26094782643032,
+  72130390486020,
+  280623353609678,
+  257475283982989,
+  37138545707455,
+  147722267978971
+ ],
+ "score_runs": 1,
+ "limit": "Simulated results prove the mechanism works, not that it works at this accuracy in real facilities.",
+ "detector": {
+  "per_class": {
+   "uterotonic_stockout_risk": {
+    "worlds": 30,
+    "correct": 26,
+    "false_alarm_worlds": 0,
+    "alerts": 26,
+    "correct_alerts": 26,
+    "failures": [
+     {
+      "seed": 246091227546393,
+      "class": "uterotonic_stockout_risk",
+      "truth": {
+       "items": [
+        "MISOPROSTOL"
+       ],
+       "onset_week": 51,
+       "receipts": 0.584,
+       "demand": 1.177
+      },
+      "target": "SIM-DAK-02"
+     },
+     {
+      "seed": 192920499003132,
+      "class": "uterotonic_stockout_risk",
+      "truth": {
+       "items": [
+        "MISOPROSTOL"
+       ],
+       "onset_week": 51,
+       "receipts": 0.312,
+       "demand": 1.025
+      },
+      "target": "SIM-SHR-04"
+     },
+     {
+      "seed": 239043972618250,
+      "class": "uterotonic_stockout_risk",
+      "truth": {
+       "items": [
+        "MISOPROSTOL"
+       ],
+       "onset_week": 46,
+       "receipts": 0.113,
+       "demand": 1.031
+      },
+      "target": "SIM-DAK-02"
+     },
+     {
+      "seed": 135097393432486,
+      "class": "uterotonic_stockout_risk",
+      "truth": {
+       "items": [
+        "MISOPROSTOL"
+       ],
+       "onset_week": 47,
+       "receipts": 0.546,
+       "demand": 1.03
+      },
+      "target": "SIM-DAK-03"
+     }
+    ]
+   },
+   "antenatal_screening_dropoff": {
+    "worlds": 30,
+    "correct": 28,
+    "false_alarm_worlds": 0,
+    "alerts": 28,
+    "correct_alerts": 28,
+    "failures": [
+     {
+      "seed": 209954482213645,
+      "class": "antenatal_screening_dropoff",
+      "truth": {
+       "facilities": [
+        "SIM-SHR-04",
+        "SIM-SHR-05",
+        "SIM-SHR-06"
+       ],
+       "onset_week": 57,
+       "factor": 0.791
+      },
+      "target": "Sharqia"
+     },
+     {
+      "seed": 106849829875484,
+      "class": "antenatal_screening_dropoff",
+      "truth": {
+       "facilities": [
+        "SIM-GIZ-03",
+        "SIM-GIZ-05",
+        "SIM-GIZ-01",
+        "SIM-GIZ-06"
+       ],
+       "onset_week": 57,
+       "factor": 0.775
+      },
+      "target": "Giza"
+     }
+    ]
+   },
+   "haemorrhage_treatment_rise": {
+    "worlds": 30,
+    "correct": 10,
+    "false_alarm_worlds": 0,
+    "alerts": 10,
+    "correct_alerts": 10,
+    "failures": [
+     {
+      "seed": 8448512905111,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-DAK-06",
+        "SIM-DAK-04",
+        "SIM-DAK-03"
+       ],
+       "onset_week": 54,
+       "factor": 1.721
+      },
+      "target": "Dakahlia"
+     },
+     {
+      "seed": 191603550984538,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-04",
+        "SIM-CAI-02",
+        "SIM-CAI-06",
+        "SIM-CAI-03",
+        "SIM-CAI-05"
+       ],
+       "onset_week": 57,
+       "factor": 1.885
+      },
+      "target": "Cairo"
+     },
+     {
+      "seed": 244941437475746,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-DAK-01",
+        "SIM-DAK-03",
+        "SIM-DAK-05"
+       ],
+       "onset_week": 56,
+       "factor": 1.663
+      },
+      "target": "Dakahlia"
+     },
+     {
+      "seed": 181707625399571,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-SHR-05",
+        "SIM-SHR-06",
+        "SIM-SHR-04",
+        "SIM-SHR-01"
+       ],
+       "onset_week": 57,
+       "factor": 1.843
+      },
+      "target": "Sharqia"
+     },
+     {
+      "seed": 89293409348570,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-GIZ-02",
+        "SIM-GIZ-05",
+        "SIM-GIZ-03",
+        "SIM-GIZ-06"
+       ],
+       "onset_week": 56,
+       "factor": 1.946
+      },
+      "target": "Giza"
+     },
+     {
+      "seed": 127481750355395,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-03",
+        "SIM-CAI-06",
+        "SIM-CAI-04",
+        "SIM-CAI-02"
+       ],
+       "onset_week": 54,
+       "factor": 1.455
+      },
+      "target": "Cairo"
+     },
+     {
+      "seed": 100658924013376,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-SHR-06",
+        "SIM-SHR-01",
+        "SIM-SHR-03",
+        "SIM-SHR-05"
+       ],
+       "onset_week": 57,
+       "factor": 1.504
+      },
+      "target": "Sharqia"
+     },
+     {
+      "seed": 103099552386354,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-04",
+        "SIM-CAI-06",
+        "SIM-CAI-01",
+        "SIM-CAI-05"
+       ],
+       "onset_week": 55,
+       "factor": 1.753
+      },
+      "target": "Cairo"
+     },
+     {
+      "seed": 225883422500943,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-DAK-03",
+        "SIM-DAK-06",
+        "SIM-DAK-04",
+        "SIM-DAK-01",
+        "SIM-DAK-05"
+       ],
+       "onset_week": 55,
+       "factor": 1.628
+      },
+      "target": "Dakahlia"
+     },
+     {
+      "seed": 10519727617400,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-02",
+        "SIM-CAI-01",
+        "SIM-CAI-06"
+       ],
+       "onset_week": 54,
+       "factor": 1.414
+      },
+      "target": "Cairo"
+     },
+     {
+      "seed": 244616684291448,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-QEN-05",
+        "SIM-QEN-02",
+        "SIM-QEN-06"
+       ],
+       "onset_week": 56,
+       "factor": 1.471
+      },
+      "target": "Qena"
+     },
+     {
+      "seed": 79361828093,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-ALX-05",
+        "SIM-ALX-06",
+        "SIM-ALX-02",
+        "SIM-ALX-04"
+       ],
+       "onset_week": 57,
+       "factor": 1.43
+      },
+      "target": "Alexandria"
+     },
+     {
+      "seed": 189815828982251,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-DAK-03",
+        "SIM-DAK-05",
+        "SIM-DAK-01"
+       ],
+       "onset_week": 54,
+       "factor": 1.514
+      },
+      "target": "Dakahlia"
+     },
+     {
+      "seed": 239183307217591,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-GIZ-04",
+        "SIM-GIZ-06",
+        "SIM-GIZ-03"
+       ],
+       "onset_week": 56,
+       "factor": 1.343
+      },
+      "target": "Giza"
+     },
+     {
+      "seed": 155326756368601,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-02",
+        "SIM-CAI-01",
+        "SIM-CAI-04",
+        "SIM-CAI-03",
+        "SIM-CAI-06"
+       ],
+       "onset_week": 57,
+       "factor": 1.52
+      },
+      "target": "Cairo"
+     },
+     {
+      "seed": 272105031818103,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-SHR-06",
+        "SIM-SHR-02",
+        "SIM-SHR-03"
+       ],
+       "onset_week": 56,
+       "factor": 1.455
+      },
+      "target": "Sharqia"
+     },
+     {
+      "seed": 130683782802052,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-04",
+        "SIM-CAI-05",
+        "SIM-CAI-03",
+        "SIM-CAI-06"
+       ],
+       "onset_week": 56,
+       "factor": 1.467
+      },
+      "target": "Cairo"
+     },
+     {
+      "seed": 9068124452395,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-03",
+        "SIM-CAI-06",
+        "SIM-CAI-01"
+       ],
+       "onset_week": 55,
+       "factor": 1.364
+      },
+      "target": "Cairo"
+     },
+     {
+      "seed": 115771100802524,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-DAK-06",
+        "SIM-DAK-01",
+        "SIM-DAK-02",
+        "SIM-DAK-04",
+        "SIM-DAK-03"
+       ],
+       "onset_week": 54,
+       "factor": 1.398
+      },
+      "target": "Dakahlia"
+     },
+     {
+      "seed": 243456411181612,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-GIZ-06",
+        "SIM-GIZ-05",
+        "SIM-GIZ-03",
+        "SIM-GIZ-01",
+        "SIM-GIZ-02"
+       ],
+       "onset_week": 57,
+       "factor": 1.442
+      },
+      "target": "Giza"
+     }
+    ]
+   },
+   "anaemia_screening_gap": {
+    "worlds": 30,
+    "correct": 26,
+    "false_alarm_worlds": 0,
+    "alerts": 26,
+    "correct_alerts": 26,
+    "failures": [
+     {
+      "seed": 52493642314618,
+      "class": "anaemia_screening_gap",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-04",
+        "SIM-CAI-02",
+        "SIM-CAI-06",
+        "SIM-CAI-01"
+       ],
+       "onset_week": 57,
+       "factor": 0.734
+      },
+      "target": "Cairo"
+     },
+     {
+      "seed": 99923749696028,
+      "class": "anaemia_screening_gap",
+      "truth": {
+       "facilities": [
+        "SIM-GIZ-03",
+        "SIM-GIZ-02",
+        "SIM-GIZ-01",
+        "SIM-GIZ-06"
+       ],
+       "onset_week": 57,
+       "factor": 0.707
+      },
+      "target": "Giza"
+     },
+     {
+      "seed": 125396224005048,
+      "class": "anaemia_screening_gap",
+      "truth": {
+       "facilities": [
+        "SIM-SHR-05",
+        "SIM-SHR-03",
+        "SIM-SHR-06"
+       ],
+       "onset_week": 57,
+       "factor": 0.626
+      },
+      "target": "Sharqia"
+     },
+     {
+      "seed": 188365013623672,
+      "class": "anaemia_screening_gap",
+      "truth": {
+       "facilities": [
+        "SIM-SHR-06",
+        "SIM-SHR-02",
+        "SIM-SHR-03",
+        "SIM-SHR-05",
+        "SIM-SHR-04"
+       ],
+       "onset_week": 57,
+       "factor": 0.699
+      },
+      "target": "Sharqia"
+     }
+    ]
+   },
+   "newborn_item_shortage": {
+    "worlds": 30,
+    "correct": 27,
+    "false_alarm_worlds": 0,
+    "alerts": 33,
+    "correct_alerts": 33,
+    "failures": [
+     {
+      "seed": 83164830262321,
+      "class": "newborn_item_shortage",
+      "truth": {
+       "items": [
+        "CHX",
+        "VIT_K"
+       ],
+       "onset_week": 49
+      },
+      "target": "SIM-SHR-05"
+     },
+     {
+      "seed": 45473178374849,
+      "class": "newborn_item_shortage",
+      "truth": {
+       "items": [
+        "NEO_RESUS"
+       ],
+       "onset_week": 49
+      },
+      "target": "SIM-QEN-04"
+     },
+     {
+      "seed": 138035182881046,
+      "class": "newborn_item_shortage",
+      "truth": {
+       "items": [
+        "NEO_RESUS"
+       ],
+       "onset_week": 46
+      },
+      "target": "SIM-DAK-06"
+     }
+    ]
+   },
+   "bulk_order": {
+    "worlds": 30,
+    "correct": 30,
+    "false_alarm_worlds": 0,
+    "alerts": 0,
+    "correct_alerts": 0,
+    "failures": []
+   },
+   "reporting_gap": {
+    "worlds": 30,
+    "correct": 30,
+    "false_alarm_worlds": 0,
+    "alerts": 0,
+    "correct_alerts": 0,
+    "failures": []
+   },
+   "delivery_failure_shortage": {
+    "worlds": 30,
+    "correct": 30,
+    "false_alarm_worlds": 0,
+    "alerts": 0,
+    "correct_alerts": 0,
+    "failures": []
+   },
+   "single_facility_noise": {
+    "worlds": 30,
+    "correct": 29,
+    "false_alarm_worlds": 1,
+    "alerts": 1,
+    "correct_alerts": 0,
+    "failures": [
+     {
+      "seed": 47709635578735,
+      "class": "single_facility_noise",
+      "truth": {
+       "items": [
+        "HB_TEST"
+       ],
+       "factor": 0.587
+      },
+      "target": "SIM-DAK-03",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-04",
+          "SIM-DAK-05",
+          "SIM-DAK-06"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "seasonal_delivery_peak": {
+    "worlds": 30,
+    "correct": 26,
+    "false_alarm_worlds": 4,
+    "alerts": 5,
+    "correct_alerts": 0,
+    "failures": [
+     {
+      "seed": 280549645604680,
+      "class": "seasonal_delivery_peak",
+      "truth": {
+       "peak": 1.342,
+       "onset_week": 56
+      },
+      "target": null,
+      "alerts": [
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-06"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 153742451201460,
+      "class": "seasonal_delivery_peak",
+      "truth": {
+       "peak": 1.272,
+       "onset_week": 55
+      },
+      "target": null,
+      "alerts": [
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-02"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 62416241807809,
+      "class": "seasonal_delivery_peak",
+      "truth": {
+       "peak": 1.296,
+       "onset_week": 53
+      },
+      "target": null,
+      "alerts": [
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-04"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 72439964734064,
+      "class": "seasonal_delivery_peak",
+      "truth": {
+       "peak": 1.444,
+       "onset_week": 54
+      },
+      "target": null,
+      "alerts": [
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-05"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "clean": {
+    "worlds": 30,
+    "correct": 30,
+    "false_alarm_worlds": 0,
+    "alerts": 0,
+    "correct_alerts": 0,
+    "failures": []
+   }
+  },
+  "overall": {
+   "sensitivity": 0.78,
+   "quiet_worlds_kept_quiet": 0.9722,
+   "false_alarm_rate_quiet_worlds": 0.0278,
+   "precision_of_alerts": 0.9535,
+   "alerts_total": 129,
+   "clean_rolling_alerts_per_evaluation": 0.0,
+   "clean_rolling_evaluations": 240
+  }
+ },
+ "baseline": {
+  "per_class": {
+   "uterotonic_stockout_risk": {
+    "worlds": 30,
+    "correct": 26,
+    "false_alarm_worlds": 30,
+    "alerts": 171,
+    "correct_alerts": 26,
+    "failures": [
+     {
+      "seed": 246091227546393,
+      "class": "uterotonic_stockout_risk",
+      "truth": {
+       "items": [
+        "MISOPROSTOL"
+       ],
+       "onset_week": 51,
+       "receipts": 0.584,
+       "demand": 1.177
+      },
+      "target": "SIM-DAK-02",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-05"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 69995665093492,
+      "class": "uterotonic_stockout_risk",
+      "truth": {
+       "items": [
+        "OXYTOCIN"
+       ],
+       "onset_week": 51,
+       "receipts": 0.394,
+       "demand": 1.124
+      },
+      "target": "SIM-SHR-05",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-03"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 192920499003132,
+      "class": "uterotonic_stockout_risk",
+      "truth": {
+       "items": [
+        "MISOPROSTOL"
+       ],
+       "onset_week": 51,
+       "receipts": 0.312,
+       "demand": 1.025
+      },
+      "target": "SIM-SHR-04",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-01"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-03"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-06"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "antenatal_screening_dropoff": {
+    "worlds": 30,
+    "correct": 23,
+    "false_alarm_worlds": 30,
+    "alerts": 264,
+    "correct_alerts": 81,
+    "failures": [
+     {
+      "seed": 91326954222811,
+      "class": "antenatal_screening_dropoff",
+      "truth": {
+       "facilities": [
+        "SIM-ALX-01",
+        "SIM-ALX-03",
+        "SIM-ALX-04",
+        "SIM-ALX-02"
+       ],
+       "onset_week": 55,
+       "factor": 0.624
+      },
+      "target": "Alexandria",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 78356308893638,
+      "class": "antenatal_screening_dropoff",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-01",
+        "SIM-CAI-03",
+        "SIM-CAI-06"
+       ],
+       "onset_week": 56,
+       "factor": 0.686
+      },
+      "target": "Cairo",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-06"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 179831436131537,
+      "class": "antenatal_screening_dropoff",
+      "truth": {
+       "facilities": [
+        "SIM-QEN-02",
+        "SIM-QEN-05",
+        "SIM-QEN-03",
+        "SIM-QEN-04",
+        "SIM-QEN-01"
+       ],
+       "onset_week": 56,
+       "factor": 0.668
+      },
+      "target": "Qena",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-04"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-06"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-04"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "haemorrhage_treatment_rise": {
+    "worlds": 30,
+    "correct": 26,
+    "false_alarm_worlds": 30,
+    "alerts": 228,
+    "correct_alerts": 83,
+    "failures": [
+     {
+      "seed": 100658924013376,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-SHR-06",
+        "SIM-SHR-01",
+        "SIM-SHR-03",
+        "SIM-SHR-05"
+       ],
+       "onset_week": 57,
+       "factor": 1.504
+      },
+      "target": "Sharqia",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-03"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 10519727617400,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-02",
+        "SIM-CAI-01",
+        "SIM-CAI-06"
+       ],
+       "onset_week": 54,
+       "factor": 1.414
+      },
+      "target": "Cairo",
+      "alerts": [
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-06"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 244616684291448,
+      "class": "haemorrhage_treatment_rise",
+      "truth": {
+       "facilities": [
+        "SIM-QEN-05",
+        "SIM-QEN-02",
+        "SIM-QEN-06"
+       ],
+       "onset_week": 56,
+       "factor": 1.471
+      },
+      "target": "Qena",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-02"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "anaemia_screening_gap": {
+    "worlds": 30,
+    "correct": 16,
+    "false_alarm_worlds": 30,
+    "alerts": 182,
+    "correct_alerts": 27,
+    "failures": [
+     {
+      "seed": 52493642314618,
+      "class": "anaemia_screening_gap",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-04",
+        "SIM-CAI-02",
+        "SIM-CAI-06",
+        "SIM-CAI-01"
+       ],
+       "onset_week": 57,
+       "factor": 0.734
+      },
+      "target": "Cairo",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-01"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 280610040483462,
+      "class": "anaemia_screening_gap",
+      "truth": {
+       "facilities": [
+        "SIM-ALX-04",
+        "SIM-ALX-06",
+        "SIM-ALX-03"
+       ],
+       "onset_week": 55,
+       "factor": 0.638
+      },
+      "target": "Alexandria",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-04"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-04"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 99923749696028,
+      "class": "anaemia_screening_gap",
+      "truth": {
+       "facilities": [
+        "SIM-GIZ-03",
+        "SIM-GIZ-02",
+        "SIM-GIZ-01",
+        "SIM-GIZ-06"
+       ],
+       "onset_week": 57,
+       "factor": 0.707
+      },
+      "target": "Giza",
+      "alerts": [
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-04"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-05"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "newborn_item_shortage": {
+    "worlds": 30,
+    "correct": 26,
+    "false_alarm_worlds": 29,
+    "alerts": 192,
+    "correct_alerts": 32,
+    "failures": [
+     {
+      "seed": 182463025879187,
+      "class": "newborn_item_shortage",
+      "truth": {
+       "items": [
+        "NEO_RESUS",
+        "VIT_K"
+       ],
+       "onset_week": 44
+      },
+      "target": "SIM-DAK-03",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-01"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 184025606752796,
+      "class": "newborn_item_shortage",
+      "truth": {
+       "items": [
+        "CHX"
+       ],
+       "onset_week": 44
+      },
+      "target": "SIM-DAK-05",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-05"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 190239220173924,
+      "class": "newborn_item_shortage",
+      "truth": {
+       "items": [
+        "CHX",
+        "VIT_K"
+       ],
+       "onset_week": 45
+      },
+      "target": "SIM-GIZ-04",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-03"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-04"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "bulk_order": {
+    "worlds": 30,
+    "correct": 0,
+    "false_alarm_worlds": 30,
+    "alerts": 160,
+    "correct_alerts": 0,
+    "failures": [
+     {
+      "seed": 139376798383214,
+      "class": "bulk_order",
+      "truth": {
+       "facilities": [
+        "SIM-QEN-03",
+        "SIM-QEN-01",
+        "SIM-QEN-04",
+        "SIM-QEN-05"
+       ],
+       "item": "VIT_K",
+       "week": 57,
+       "multiplier": 6.7
+      },
+      "target": "Qena",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-05"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 55709890887619,
+      "class": "bulk_order",
+      "truth": {
+       "facilities": [
+        "SIM-CAI-01",
+        "SIM-CAI-04",
+        "SIM-CAI-03"
+       ],
+       "item": "HB_TEST",
+       "week": 55,
+       "multiplier": 4.91
+      },
+      "target": "Cairo",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-04"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 223630228988898,
+      "class": "bulk_order",
+      "truth": {
+       "facilities": [
+        "SIM-DAK-02",
+        "SIM-DAK-03",
+        "SIM-DAK-06",
+        "SIM-DAK-05"
+       ],
+       "item": "VIT_K",
+       "week": 58,
+       "multiplier": 6.4
+      },
+      "target": "Dakahlia",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-03"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "reporting_gap": {
+    "worlds": 30,
+    "correct": 0,
+    "false_alarm_worlds": 30,
+    "alerts": 180,
+    "correct_alerts": 0,
+    "failures": [
+     {
+      "seed": 99896247939426,
+      "class": "reporting_gap",
+      "truth": {
+       "facilities": [
+        "SIM-SHR-06"
+       ]
+      },
+      "target": "Sharqia",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-03"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-02"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-02"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-06"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 225224941266279,
+      "class": "reporting_gap",
+      "truth": {
+       "facilities": [
+        "SIM-QEN-03"
+       ]
+      },
+      "target": "Qena",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-03"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 71583754250944,
+      "class": "reporting_gap",
+      "truth": {
+       "facilities": [
+        "SIM-DAK-01",
+        "SIM-DAK-02"
+       ]
+      },
+      "target": "Dakahlia",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "delivery_failure_shortage": {
+    "worlds": 30,
+    "correct": 0,
+    "false_alarm_worlds": 30,
+    "alerts": 376,
+    "correct_alerts": 0,
+    "failures": [
+     {
+      "seed": 208157735528151,
+      "class": "delivery_failure_shortage",
+      "truth": {
+       "route": "R1",
+       "facilities": [
+        "SIM-SHR-01",
+        "SIM-SHR-03",
+        "SIM-SHR-05"
+       ],
+       "start_week": 54
+      },
+      "target": "Sharqia",
+      "alerts": [
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-03"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 188117174968734,
+      "class": "delivery_failure_shortage",
+      "truth": {
+       "route": "R1",
+       "facilities": [
+        "SIM-SHR-01",
+        "SIM-SHR-03",
+        "SIM-SHR-05"
+       ],
+       "start_week": 51
+      },
+      "target": "Sharqia",
+      "alerts": [
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-06"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-05"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 27767708702794,
+      "class": "delivery_failure_shortage",
+      "truth": {
+       "route": "R1",
+       "facilities": [
+        "SIM-ALX-01",
+        "SIM-ALX-03",
+        "SIM-ALX-05"
+       ],
+       "start_week": 51
+      },
+      "target": "Alexandria",
+      "alerts": [
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-01"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-01"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-01"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-01"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-01"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-01"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-02"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-03"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-03"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "uterotonic_stock_risk",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-02"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-06"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-01"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "single_facility_noise": {
+    "worlds": 30,
+    "correct": 0,
+    "false_alarm_worlds": 30,
+    "alerts": 185,
+    "correct_alerts": 0,
+    "failures": [
+     {
+      "seed": 142156246716601,
+      "class": "single_facility_noise",
+      "truth": {
+       "items": [
+        "TXA",
+        "BLOOD_BAG"
+       ],
+       "factor": 2.003
+      },
+      "target": "SIM-SHR-06",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-05"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-04"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 258242938095865,
+      "class": "single_facility_noise",
+      "truth": {
+       "items": [
+        "HB_TEST"
+       ],
+       "factor": 0.477
+      },
+      "target": "SIM-CAI-01",
+      "alerts": [
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-06"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-06"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 47709635578735,
+      "class": "single_facility_noise",
+      "truth": {
+       "items": [
+        "HB_TEST"
+       ],
+       "factor": 0.587
+      },
+      "target": "SIM-DAK-03",
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-06"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-06"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "seasonal_delivery_peak": {
+    "worlds": 30,
+    "correct": 0,
+    "false_alarm_worlds": 30,
+    "alerts": 379,
+    "correct_alerts": 0,
+    "failures": [
+     {
+      "seed": 117017948058951,
+      "class": "seasonal_delivery_peak",
+      "truth": {
+       "peak": 1.323,
+       "onset_week": 54
+      },
+      "target": null,
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-05"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 462282345295,
+      "class": "seasonal_delivery_peak",
+      "truth": {
+       "peak": 1.356,
+       "onset_week": 54
+      },
+      "target": null,
+      "alerts": [
+       {
+        "kind": "newborn_item_shortage",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-06"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 172900258905348,
+      "class": "seasonal_delivery_peak",
+      "truth": {
+       "peak": 1.396,
+       "onset_week": 54
+      },
+      "target": null,
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-01"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-05"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   },
+   "clean": {
+    "worlds": 30,
+    "correct": 0,
+    "false_alarm_worlds": 30,
+    "alerts": 177,
+    "correct_alerts": 0,
+    "failures": [
+     {
+      "seed": 200062350706785,
+      "class": "clean",
+      "truth": {},
+      "target": null,
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Dakahlia",
+         "facilities": [
+          "SIM-DAK-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-06"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 251541353751995,
+      "class": "clean",
+      "truth": {},
+      "target": null,
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Giza",
+         "facilities": [
+          "SIM-GIZ-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-01"
+         ]
+        }
+       },
+       {
+        "kind": "screening_dropoff",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-04"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Alexandria",
+         "facilities": [
+          "SIM-ALX-06"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-03"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       }
+      ]
+     },
+     {
+      "seed": 91739115807449,
+      "class": "clean",
+      "truth": {},
+      "target": null,
+      "alerts": [
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-04"
+         ]
+        }
+       },
+       {
+        "kind": "hb_screening_gap",
+        "where": {
+         "governorate": "Cairo",
+         "facilities": [
+          "SIM-CAI-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Sharqia",
+         "facilities": [
+          "SIM-SHR-05"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-02"
+         ]
+        }
+       },
+       {
+        "kind": "treatment_use_rise",
+        "where": {
+         "governorate": "Qena",
+         "facilities": [
+          "SIM-QEN-06"
+         ]
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "overall": {
+   "sensitivity": 0.78,
+   "quiet_worlds_kept_quiet": 0.0,
+   "false_alarm_rate_quiet_worlds": 1.0,
+   "precision_of_alerts": 0.0998,
+   "alerts_total": 2494,
+   "clean_rolling_alerts_per_evaluation": 6.0042,
+   "clean_rolling_evaluations": 240
+  }
+ }
+}
