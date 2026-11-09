@@ -1,0 +1,735 @@
+{
+ "simulated": true,
+ "label": "Simulated data",
+ "limit": "Simulated results prove the mechanism works, not that it works at this accuracy in real facilities.",
+ "as_of_week": 59,
+ "alert_world": {
+  "seed": 9003,
+  "class": "haemorrhage_treatment_rise"
+ },
+ "overview": [
+  {
+   "governorate": "Alexandria",
+   "facilities": [
+    {
+     "id": "SIM-ALX-01",
+     "name": "Simulated Larger Unit ALX-01",
+     "status": "ok",
+     "deliveries_last_4_weeks": "414"
+    },
+    {
+     "id": "SIM-ALX-02",
+     "name": "Simulated Primary Unit ALX-02",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "101"
+    },
+    {
+     "id": "SIM-ALX-03",
+     "name": "Simulated Primary Unit ALX-03",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "147"
+    },
+    {
+     "id": "SIM-ALX-04",
+     "name": "Simulated Primary Unit ALX-04",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "106"
+    },
+    {
+     "id": "SIM-ALX-05",
+     "name": "Simulated Primary Unit ALX-05",
+     "status": "ok",
+     "deliveries_last_4_weeks": "151"
+    },
+    {
+     "id": "SIM-ALX-06",
+     "name": "Simulated Primary Unit ALX-06",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "122"
+    }
+   ]
+  },
+  {
+   "governorate": "Cairo",
+   "facilities": [
+    {
+     "id": "SIM-CAI-01",
+     "name": "Simulated Larger Unit CAI-01",
+     "status": "ok",
+     "deliveries_last_4_weeks": "392"
+    },
+    {
+     "id": "SIM-CAI-02",
+     "name": "Simulated Primary Unit CAI-02",
+     "status": "ok",
+     "deliveries_last_4_weeks": "113"
+    },
+    {
+     "id": "SIM-CAI-03",
+     "name": "Simulated Primary Unit CAI-03",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "101"
+    },
+    {
+     "id": "SIM-CAI-04",
+     "name": "Simulated Primary Unit CAI-04",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "73"
+    },
+    {
+     "id": "SIM-CAI-05",
+     "name": "Simulated Primary Unit CAI-05",
+     "status": "ok",
+     "deliveries_last_4_weeks": "174"
+    },
+    {
+     "id": "SIM-CAI-06",
+     "name": "Simulated Primary Unit CAI-06",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "88"
+    }
+   ]
+  },
+  {
+   "governorate": "Dakahlia",
+   "facilities": [
+    {
+     "id": "SIM-DAK-01",
+     "name": "Simulated Larger Unit DAK-01",
+     "status": "ok",
+     "deliveries_last_4_weeks": "421"
+    },
+    {
+     "id": "SIM-DAK-02",
+     "name": "Simulated Primary Unit DAK-02",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "99"
+    },
+    {
+     "id": "SIM-DAK-03",
+     "name": "Simulated Primary Unit DAK-03",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "97"
+    },
+    {
+     "id": "SIM-DAK-04",
+     "name": "Simulated Primary Unit DAK-04",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "117"
+    },
+    {
+     "id": "SIM-DAK-05",
+     "name": "Simulated Primary Unit DAK-05",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "118"
+    },
+    {
+     "id": "SIM-DAK-06",
+     "name": "Simulated Primary Unit DAK-06",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "106"
+    }
+   ]
+  },
+  {
+   "governorate": "Giza",
+   "facilities": [
+    {
+     "id": "SIM-GIZ-01",
+     "name": "Simulated Larger Unit GIZ-01",
+     "status": "ok",
+     "deliveries_last_4_weeks": "298"
+    },
+    {
+     "id": "SIM-GIZ-02",
+     "name": "Simulated Primary Unit GIZ-02",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "73"
+    },
+    {
+     "id": "SIM-GIZ-03",
+     "name": "Simulated Primary Unit GIZ-03",
+     "status": "attention",
+     "deliveries_last_4_weeks": "113"
+    },
+    {
+     "id": "SIM-GIZ-04",
+     "name": "Simulated Primary Unit GIZ-04",
+     "status": "attention",
+     "deliveries_last_4_weeks": "148"
+    },
+    {
+     "id": "SIM-GIZ-05",
+     "name": "Simulated Primary Unit GIZ-05",
+     "status": "attention",
+     "deliveries_last_4_weeks": "68"
+    },
+    {
+     "id": "SIM-GIZ-06",
+     "name": "Simulated Primary Unit GIZ-06",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "118"
+    }
+   ]
+  },
+  {
+   "governorate": "Qena",
+   "facilities": [
+    {
+     "id": "SIM-QEN-01",
+     "name": "Simulated Larger Unit QEN-01",
+     "status": "ok",
+     "deliveries_last_4_weeks": "324"
+    },
+    {
+     "id": "SIM-QEN-02",
+     "name": "Simulated Primary Unit QEN-02",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "96"
+    },
+    {
+     "id": "SIM-QEN-03",
+     "name": "Simulated Primary Unit QEN-03",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "135"
+    },
+    {
+     "id": "SIM-QEN-04",
+     "name": "Simulated Primary Unit QEN-04",
+     "status": "ok",
+     "deliveries_last_4_weeks": "143"
+    },
+    {
+     "id": "SIM-QEN-05",
+     "name": "Simulated Primary Unit QEN-05",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "110"
+    },
+    {
+     "id": "SIM-QEN-06",
+     "name": "Simulated Primary Unit QEN-06",
+     "status": "ok",
+     "deliveries_last_4_weeks": "137"
+    }
+   ]
+  },
+  {
+   "governorate": "Sharqia",
+   "facilities": [
+    {
+     "id": "SIM-SHR-01",
+     "name": "Simulated Larger Unit SHR-01",
+     "status": "ok",
+     "deliveries_last_4_weeks": "295"
+    },
+    {
+     "id": "SIM-SHR-02",
+     "name": "Simulated Primary Unit SHR-02",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "89"
+    },
+    {
+     "id": "SIM-SHR-03",
+     "name": "Simulated Primary Unit SHR-03",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "113"
+    },
+    {
+     "id": "SIM-SHR-04",
+     "name": "Simulated Primary Unit SHR-04",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "143"
+    },
+    {
+     "id": "SIM-SHR-05",
+     "name": "Simulated Primary Unit SHR-05",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "106"
+    },
+    {
+     "id": "SIM-SHR-06",
+     "name": "Simulated Primary Unit SHR-06",
+     "status": "not_assessed",
+     "deliveries_last_4_weeks": "101"
+    }
+   ]
+  }
+ ],
+ "alert": {
+  "alert_id": "AL-treatment_use_rise-Giza-W59",
+  "kind": "treatment_use_rise",
+  "level": "area",
+  "where": {
+   "governorate": "Giza",
+   "facilities": [
+    "SIM-GIZ-03",
+    "SIM-GIZ-04",
+    "SIM-GIZ-05"
+   ]
+  },
+  "label": {
+   "en": "Tranexamic acid and blood bag use per 100 deliveries rising",
+   "ar": "ارتفاع استخدام Tranexamic acid وأكياس الدم لكل 100 ولادة"
+  },
+  "prompt": {
+   "en": "Tranexamic acid and blood bag use per 100 deliveries rose at 3 separate facilities in Giza. Check stock, records and referral patterns. This is a signal about supplies, not about any person.",
+   "ar": "ارتفع استخدام Tranexamic acid وأكياس الدم لكل 100 ولادة في 3 منشآت منفصلة في Giza. راجع المخزون والسجلات ومسارات الإحالة. هذه إشارة عن المستلزمات وليست عن أي شخص."
+  },
+  "what_moved": [
+   {
+    "scope": "Giza",
+    "baseline": "10.7",
+    "recent": "15.9",
+    "change_pct": 49,
+    "en": "Giza: 10.7 per 100 deliveries in the baseline, 15.9 in the last 4 weeks.",
+    "ar": "Giza: 10.7 لكل 100 ولادة في خط الأساس، و15.9 في آخر 4 أسابيع."
+   },
+   {
+    "scope": "SIM-GIZ-03",
+    "baseline": "10.8",
+    "recent": "23.0",
+    "change_pct": 112,
+    "en": "SIM-GIZ-03: 10.8 before, 23.0 recently.",
+    "ar": "SIM-GIZ-03: 10.8 سابقا، و23.0 مؤخرا."
+   },
+   {
+    "scope": "SIM-GIZ-04",
+    "baseline": "8.3",
+    "recent": "14.9",
+    "change_pct": 78,
+    "en": "SIM-GIZ-04: 8.3 before, 14.9 recently.",
+    "ar": "SIM-GIZ-04: 8.3 سابقا، و14.9 مؤخرا."
+   },
+   {
+    "scope": "SIM-GIZ-05",
+    "baseline": "11.7",
+    "recent": "29.4",
+    "change_pct": 152,
+    "en": "SIM-GIZ-05: 11.7 before, 29.4 recently.",
+    "ar": "SIM-GIZ-05: 11.7 سابقا، و29.4 مؤخرا."
+   }
+  ],
+  "ruled_out": [
+   {
+    "code": "seasonal",
+    "en": "A seasonal peak in deliveries: the measure is per delivery or per visit, and other governorates did not move in the same way.",
+    "ar": "ذروة موسمية في الولادات: المقياس لكل ولادة أو زيارة، ولم تتحرك المحافظات الأخرى بالطريقة نفسها."
+   },
+   {
+    "code": "bulk",
+    "en": "A one-off bulk order: the change still holds with the single largest week removed.",
+    "ar": "طلبية كبيرة لمرة واحدة: يبقى التغير قائما بعد حذف أكبر أسبوع."
+   },
+   {
+    "code": "reporting",
+    "en": "Reporting gaps: only weeks with at least 80 percent complete reporting were used.",
+    "ar": "فجوات الإبلاغ: استخدمت فقط الأسابيع التي اكتمل فيها الإبلاغ بنسبة 80 بالمئة على الأقل."
+   },
+   {
+    "code": "delivery_failure",
+    "en": "A recorded delivery failure: at least half of the scheduled deliveries for these items arrived in the last 8 weeks.",
+    "ar": "تعثر توريد مسجل: وصل نصف التوريدات المجدولة لهذه الأصناف على الأقل خلال آخر 8 أسابيع."
+   },
+   {
+    "code": "single_facility",
+    "en": "A single facility's noise: the change is seen at several separate facilities, each tested on its own counts.",
+    "ar": "تذبذب منشأة واحدة: ظهر التغير في عدة منشآت منفصلة، واختبرت كل منها بأرقامها وحدها."
+   }
+  ],
+  "missing": [
+   {
+    "en": "The cause. Counts can say where to look, not why it moved.",
+    "ar": "السبب. الأرقام تدل على مكان البحث وليس على سبب التغير."
+   },
+   {
+    "en": "Anything about individuals: the watcher holds facility totals only, by design.",
+    "ar": "أي شيء عن الأفراد: يحتفظ النظام بمجاميع المنشآت فقط، وهذا مقصود."
+   }
+  ],
+  "who_acts": {
+   "en": "Governorate maternal health coordinator (district lead)",
+   "ar": "منسق صحة الأم في المحافظة (مسؤول المنطقة)"
+  },
+  "status": "awaiting_review",
+  "peer_median_ratio": 0.961
+ },
+ "quiet_case": {
+  "seed": 9000,
+  "class": "delivery_failure_shortage",
+  "alerts": [],
+  "quiet": [
+   {
+    "code": "delivery_failure",
+    "level": "facility",
+    "where": "SIM-DAK-02",
+    "en": "OXYTOCIN cover is low at SIM-DAK-02 because scheduled deliveries did not arrive. Logged and routed to logistics, not raised as an alert.",
+    "ar": "تغطية OXYTOCIN منخفضة في SIM-DAK-02 لأن التوريدات المجدولة لم تصل. تم تسجيله وتحويله إلى اللوجستيات دون رفع تنبيه."
+   },
+   {
+    "code": "delivery_failure",
+    "level": "facility",
+    "where": "SIM-DAK-02",
+    "en": "MISOPROSTOL cover is low at SIM-DAK-02 because scheduled deliveries did not arrive. Logged and routed to logistics, not raised as an alert.",
+    "ar": "تغطية MISOPROSTOL منخفضة في SIM-DAK-02 لأن التوريدات المجدولة لم تصل. تم تسجيله وتحويله إلى اللوجستيات دون رفع تنبيه."
+   },
+   {
+    "code": "delivery_failure",
+    "level": "facility",
+    "where": "SIM-DAK-04",
+    "en": "OXYTOCIN cover is low at SIM-DAK-04 because scheduled deliveries did not arrive. Logged and routed to logistics, not raised as an alert.",
+    "ar": "تغطية OXYTOCIN منخفضة في SIM-DAK-04 لأن التوريدات المجدولة لم تصل. تم تسجيله وتحويله إلى اللوجستيات دون رفع تنبيه."
+   }
+  ]
+ },
+ "holdout": {
+  "frozen_detector_sha256": "0ad940a8f0fbdb4f320a39e7afabb3faed3f385fa5f70797bf7bc7b0c97a6ba2",
+  "overall": {
+   "sensitivity": 0.78,
+   "quiet_worlds_kept_quiet": 0.9722,
+   "false_alarm_rate_quiet_worlds": 0.0278,
+   "precision_of_alerts": 0.9535,
+   "alerts_total": 129,
+   "clean_rolling_alerts_per_evaluation": 0.0,
+   "clean_rolling_evaluations": 240
+  },
+  "baseline_overall": {
+   "sensitivity": 0.78,
+   "quiet_worlds_kept_quiet": 0.0,
+   "false_alarm_rate_quiet_worlds": 1.0,
+   "precision_of_alerts": 0.0998,
+   "alerts_total": 2494,
+   "clean_rolling_alerts_per_evaluation": 6.0042,
+   "clean_rolling_evaluations": 240
+  },
+  "per_class": [
+   {
+    "class": "uterotonic_stockout_risk",
+    "worlds": 30,
+    "correct": 26,
+    "false_alarm_worlds": 0,
+    "alerts": 26,
+    "failures": [
+     "seed 246091227546393, target SIM-DAK-02, onset week 51",
+     "seed 192920499003132, target SIM-SHR-04, onset week 51",
+     "seed 239043972618250, target SIM-DAK-02, onset week 46",
+     "seed 135097393432486, target SIM-DAK-03, onset week 47"
+    ],
+    "failure_count": 4
+   },
+   {
+    "class": "antenatal_screening_dropoff",
+    "worlds": 30,
+    "correct": 28,
+    "false_alarm_worlds": 0,
+    "alerts": 28,
+    "failures": [
+     "seed 209954482213645, target Sharqia, onset week 57, factor 0.791",
+     "seed 106849829875484, target Giza, onset week 57, factor 0.775"
+    ],
+    "failure_count": 2
+   },
+   {
+    "class": "haemorrhage_treatment_rise",
+    "worlds": 30,
+    "correct": 10,
+    "false_alarm_worlds": 0,
+    "alerts": 10,
+    "failures": [
+     "seed 8448512905111, target Dakahlia, onset week 54, factor 1.721",
+     "seed 191603550984538, target Cairo, onset week 57, factor 1.885",
+     "seed 244941437475746, target Dakahlia, onset week 56, factor 1.663",
+     "seed 181707625399571, target Sharqia, onset week 57, factor 1.843"
+    ],
+    "failure_count": 20
+   },
+   {
+    "class": "anaemia_screening_gap",
+    "worlds": 30,
+    "correct": 26,
+    "false_alarm_worlds": 0,
+    "alerts": 26,
+    "failures": [
+     "seed 52493642314618, target Cairo, onset week 57, factor 0.734",
+     "seed 99923749696028, target Giza, onset week 57, factor 0.707",
+     "seed 125396224005048, target Sharqia, onset week 57, factor 0.626",
+     "seed 188365013623672, target Sharqia, onset week 57, factor 0.699"
+    ],
+    "failure_count": 4
+   },
+   {
+    "class": "newborn_item_shortage",
+    "worlds": 30,
+    "correct": 27,
+    "false_alarm_worlds": 0,
+    "alerts": 33,
+    "failures": [
+     "seed 83164830262321, target SIM-SHR-05, onset week 49",
+     "seed 45473178374849, target SIM-QEN-04, onset week 49",
+     "seed 138035182881046, target SIM-DAK-06, onset week 46"
+    ],
+    "failure_count": 3
+   },
+   {
+    "class": "bulk_order",
+    "worlds": 30,
+    "correct": 30,
+    "false_alarm_worlds": 0,
+    "alerts": 0,
+    "failures": [],
+    "failure_count": 0
+   },
+   {
+    "class": "reporting_gap",
+    "worlds": 30,
+    "correct": 30,
+    "false_alarm_worlds": 0,
+    "alerts": 0,
+    "failures": [],
+    "failure_count": 0
+   },
+   {
+    "class": "delivery_failure_shortage",
+    "worlds": 30,
+    "correct": 30,
+    "false_alarm_worlds": 0,
+    "alerts": 0,
+    "failures": [],
+    "failure_count": 0
+   },
+   {
+    "class": "single_facility_noise",
+    "worlds": 30,
+    "correct": 29,
+    "false_alarm_worlds": 1,
+    "alerts": 1,
+    "failures": [
+     "seed 47709635578735, target SIM-DAK-03, factor 0.587, raised treatment_use_rise"
+    ],
+    "failure_count": 1
+   },
+   {
+    "class": "seasonal_delivery_peak",
+    "worlds": 30,
+    "correct": 26,
+    "false_alarm_worlds": 4,
+    "alerts": 5,
+    "failures": [
+     "seed 280549645604680, onset week 56, raised uterotonic_stock_risk",
+     "seed 153742451201460, onset week 55, raised uterotonic_stock_risk",
+     "seed 62416241807809, onset week 53, raised uterotonic_stock_risk",
+     "seed 72439964734064, onset week 54, raised uterotonic_stock_risk"
+    ],
+    "failure_count": 4
+   },
+   {
+    "class": "clean",
+    "worlds": 30,
+    "correct": 30,
+    "false_alarm_worlds": 0,
+    "alerts": 0,
+    "failures": [],
+    "failure_count": 0
+   }
+  ],
+  "limit": "Simulated results prove the mechanism works, not that it works at this accuracy in real facilities."
+ },
+ "catalogue": {
+  "status": "Clinical mapping: pending review by Dr. Yasmeen Dabees (gynaecologist). Not yet reviewed.",
+  "items": [
+   {
+    "id": "IFA",
+    "name": "Iron and folic acid tablets",
+    "stages": [
+     "antenatal"
+    ],
+    "role": "prevent",
+    "sources": [
+     "EML-FERROUS-FOLIC",
+     "ANC-2016"
+    ],
+    "cited": true
+   },
+   {
+    "id": "HB_TEST",
+    "name": "Haemoglobin test",
+    "stages": [
+     "antenatal"
+    ],
+    "role": "screen",
+    "sources": [
+     "EDL-HB",
+     "ANC-2016"
+    ],
+    "cited": true
+   },
+   {
+    "id": "URINE_TEST",
+    "name": "Urine test strip",
+    "stages": [
+     "antenatal"
+    ],
+    "role": "screen",
+    "sources": [
+     "EDL-URINE",
+     "ANC-2016"
+    ],
+    "cited": true
+   },
+   {
+    "id": "SYPH_RDT",
+    "name": "Syphilis rapid test",
+    "stages": [
+     "antenatal"
+    ],
+    "role": "screen",
+    "sources": [
+     "EDL-SYPHILIS",
+     "DUAL-RDT-2019"
+    ],
+    "cited": true
+   },
+   {
+    "id": "HIV_RDT",
+    "name": "HIV rapid test",
+    "stages": [
+     "antenatal"
+    ],
+    "role": "screen",
+    "sources": [
+     "EDL-HIV",
+     "DUAL-RDT-2019"
+    ],
+    "cited": true
+   },
+   {
+    "id": "OXYTOCIN",
+    "name": "Oxytocin injection",
+    "stages": [
+     "delivery",
+     "postnatal"
+    ],
+    "role": "prevent",
+    "sources": [
+     "UNCOLSC-2012",
+     "EML-OXYTOCIN"
+    ],
+    "cited": true
+   },
+   {
+    "id": "MISOPROSTOL",
+    "name": "Misoprostol tablets",
+    "stages": [
+     "delivery",
+     "postnatal"
+    ],
+    "role": "prevent",
+    "sources": [
+     "UNCOLSC-2012",
+     "EML-MISOPROSTOL"
+    ],
+    "cited": true
+   },
+   {
+    "id": "MGSO4",
+    "name": "Magnesium sulfate injection",
+    "stages": [
+     "antenatal",
+     "delivery"
+    ],
+    "role": "treat",
+    "sources": [
+     "UNCOLSC-2012",
+     "EML-MGSO4"
+    ],
+    "cited": true
+   },
+   {
+    "id": "CA_GLUCONATE",
+    "name": "Calcium gluconate injection",
+    "stages": [
+     "delivery"
+    ],
+    "role": "escalate",
+    "sources": [
+     "EML-CA-GLUCONATE"
+    ],
+    "cited": true
+   },
+   {
+    "id": "TXA",
+    "name": "Tranexamic acid injection",
+    "stages": [
+     "delivery",
+     "postnatal"
+    ],
+    "role": "treat",
+    "sources": [
+     "EML-TXA",
+     "TXA-2017"
+    ],
+    "cited": true
+   },
+   {
+    "id": "BLOOD_BAG",
+    "name": "Blood collection and transfusion bags",
+    "stages": [
+     "delivery",
+     "postnatal"
+    ],
+    "role": "escalate",
+    "sources": [],
+    "cited": false,
+    "uncited_reason": "No public listing naming blood bags could be confirmed during the citation check. Marked uncited rather than invented."
+   },
+   {
+    "id": "CDK",
+    "name": "Clean delivery kit",
+    "stages": [
+     "delivery"
+    ],
+    "role": "prevent",
+    "sources": [
+     "UNFPA-CDK-2024"
+    ],
+    "cited": true
+   },
+   {
+    "id": "CHX",
+    "name": "Chlorhexidine 7.1% cord care",
+    "stages": [
+     "newborn"
+    ],
+    "role": "prevent",
+    "sources": [
+     "UNCOLSC-2012",
+     "EML-CHX"
+    ],
+    "cited": true
+   },
+   {
+    "id": "VIT_K",
+    "name": "Vitamin K injection (phytomenadione)",
+    "stages": [
+     "newborn"
+    ],
+    "role": "prevent",
+    "sources": [
+     "EML-PHYTOMENADIONE"
+    ],
+    "cited": true
+   },
+   {
+    "id": "NEO_RESUS",
+    "name": "Newborn resuscitation device consumables",
+    "stages": [
+     "newborn"
+    ],
+    "role": "escalate",
+    "sources": [
+     "UNCOLSC-2012"
+    ],
+    "cited": true
+   }
+  ]
+ }
+}
